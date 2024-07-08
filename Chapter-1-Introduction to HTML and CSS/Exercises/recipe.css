@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #d2e567;
+}
+h1 {
+    color: rgb(12, 12, 117);
+    font-family: cursive;
+    text-align: center;
+}
+
+h2 {
+    color: #ac1616;
+    font-family: cursive;
+}
+h3 {
+    
+    color: rgb(35, 86, 86);
+    font-family: cursive;
+}
+h4 {
+    color: blueviolet;
+    font-family: cursive;
+    
+}
+h5 {
+    color: rgb(94, 94, 215);
+    font-family: cursive;
+}
+h6 {
+    color: brown;
+    font-family: cursive;
+}
+h7 {
+    color: rgb(25, 63, 31);
+    font-family: cursive;
+}
+ul {
+    color: rgb(10, 10, 10);
+    font-size: larger;
+    font-family: cursive;
+}
+ol {
+    color: rgb(7, 7, 7);
+    font-size: larger;
+    font-family: cursive;
+}
+p {
+    color: #050505;
+    font-size: larger;
+    font-family: cursive;
+}
+body {
+    background-color: #e4e451;
+} 
