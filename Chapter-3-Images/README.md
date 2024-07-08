@@ -8,8 +8,6 @@
 * Image formats (4m 48s)
 * Figure and figcaption (1m 15s)
 
-## CSS Essential Training (Lynda)
-
 ### Chapter 3: The Box Model
 
 * Introduction to the box model (1m 7s)
